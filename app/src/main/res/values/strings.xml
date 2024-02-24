@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">2PT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="splash_script">Predict the planting time</string>
+    <string name="app_explain_text">The 2PT App predicts and optimizes the time of land reclamation for efficient recovery</string>
+    <string name="decription_text">Fill in the form with the most accurate data related to the land to know the time required to reclaim it!</string>
+    <string name="predict_description">It is expected that this agricultural land will be reclaimed according to the previous specifications in a period ranging from 2 to 3 years</string>
+</resources>
